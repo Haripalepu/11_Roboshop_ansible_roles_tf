@@ -6,7 +6,7 @@ WEB_HOST: web.alb-dev.haripalepu.cloud
 
 REDIS_HOST: redis-dev.haripalepu.cloud
 
-USER_HOST: user.abl-dev.haripalepu.cloud
+USER_HOST: user.alb-dev.haripalepu.cloud
 
 CART_HOST: cart.alb-dev.haripalepu.cloud
 
