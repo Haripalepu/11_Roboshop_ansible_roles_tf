@@ -1,22 +1,22 @@
 MONGODB_HOST: mongodb-dev.haripalepu.cloud
 
-CATALOGUE_HOST: catalogue-dev.haripalepu.cloud
+CATALOGUE_HOST: catalogue.alb-dev.haripalepu.cloud
 
-WEB_HOST: web-dev.haripalepu.cloud
+WEB_HOST: web.alb-dev.haripalepu.cloud
 
 REDIS_HOST: redis-dev.haripalepu.cloud
 
-USER_HOST: user-dev.haripalepu.cloud
+USER_HOST: user.abl-dev.haripalepu.cloud
 
-CART_HOST: cart-dev.haripalepu.cloud
+CART_HOST: cart.alb-dev.haripalepu.cloud
 
 RABBITMQ_HOST: rabbitmq-dev.haripalepu.cloud
 
 MYSQL_HOST: mysql-dev.haripalepu.cloud
 
-PAYMENT_HOST: payment-dev.haripalepu.cloud
+PAYMENT_HOST: payment.alb-dev.haripalepu.cloud
 
-SHIPPING_HOST: shipping-dev.haripalepu.cloud
+SHIPPING_HOST: shipping.alb-dev.haripalepu.cloud
 
-DISPATCH: dispatch-dev.haripalepu.cloud
+DISPATCH: dispatch.alb-dev.haripalepu.cloud
 
