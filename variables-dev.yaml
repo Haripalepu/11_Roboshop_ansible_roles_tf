@@ -2,7 +2,7 @@ MONGODB_HOST: mongodb-dev.haripalepu.cloud
 
 CATALOGUE_HOST: catalogue.alb-dev.haripalepu.cloud
 
-WEB_HOST: web.alb-dev.haripalepu.cloud
+WEB_HOST: web.alb-dev.haripalepu.cloud  #delete
 
 REDIS_HOST: redis-dev.haripalepu.cloud
 
